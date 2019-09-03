@@ -493,17 +493,19 @@ a.socialIcon:hover,
     -webkit-border-radius: 50%;
     border-radius: 50%;
     text-align: center;
-    width: 50px;
-    height: 50px;
-    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    font-size: 17px;
 }
 
 .social-circle li i {
     margin: 0;
-    line-height: 50px;
+    line-height: 40px;
     text-align: center;
 }
+.footer_area .round_shap {
 
+    z-index: 1;}
 .social-circle li a:hover i,
 .triggeredHover {
     -moz-transform: rotate(360deg);
@@ -557,10 +559,6 @@ a.socialIcon:hover,
 }
 
 /*******************************contact***********************/
-#contact {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHfy0KdFQaOkXS3-nAd-KEQsjimxfqtQOyWhMRqP-iodatObpH);
-    font-family: "Raleway", monospace;
-}
 
 .bgbg {
     content: "";
@@ -624,27 +622,24 @@ contact-block {
 }
 
 .normal-btn {
-    background: black none repeat scroll 0 0;
-    border-radius: 5px;
-
+    font-weight: bold;
+    background: white none repeat scroll 0 0;
+    border-radius: 26px;
     margin-bottom: 12px;
     margin-top: 30px;
-
     text-transform: uppercase;
+    padding: 15px;
+    border-color: #090964;
+    padding: 1.1rem 1.5rem;
     margin-left: 40%;
     color: white;
-    border-color: black;
-    font-size: 15px;
-    background-color: black;
+    background-image: linear-gradient(to right,#080438, #548cc7,#080438 );
 
 }
 
 .normal-btn:hover {
-    color: #ffffff;
-    background-color: black;
-    text-transform: none;
-    font-weight: bold;
-    font-size: 15px;
+    background-image: linear-gradient(to right, #548cc7,#080438,#548cc7 );
+
 }
 
 .title {
@@ -826,8 +821,8 @@ body > section.countarup_area > div > div > div > div > img{
 .green-gradient {
     margin-top: 5rem;
     background-image: -moz-linear-gradient(135deg, rgb(157, 255, 212) 0%, rgb(82, 205, 197) 100%);
-    background-image: -webkit-linear-gradient(135deg, rgb(20, 23, 26) 0%, rgb(82, 137, 205) 100%);
-    background-image: -ms-linear-gradient(135deg, rgb(157, 255, 212) 0%, rgb(82, 205, 197) 100%);
+    background-image: -webkit-linear-gradient(135deg,#0704e4,#0037ff ,#eb9cc0 50%, var(--gray) 100%);
+        background-image: -ms-linear-gradient(135deg, rgb(157, 255, 212) 0%, rgb(82, 205, 197) 100%);
 }
 
 .team-text {
@@ -870,25 +865,49 @@ div.team-text.green-gradient>p {
     padding-bottom: 0px !important;
     padding-top: 0px !important;
 }
-
+.mt-75{margin-top:100px;}
 .dash {
-    margin-top: 3rem;
+    margin-top: -1rem;
     width: 100px;
     height: 10px;
+    padding-bottom: 1rem;
     background: url(../images/line.png) no-repeat center;
     background-size: cover;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
 }
-
+.dash-left {
+    margin-top: 0rem;
+    width: 100px;
+    height: 10px;
+    padding-bottom: 1rem;
+    background: url(../images/line.png) no-repeat center;
+    background-size: cover;
+    position: absolute;
+    left: 23%;
+    transform: translateX(-50%);
+}
 .title-p {
-    font-size: 17px;
-    font-weight: 600;
+    font-size: 21px !important;
+    font-weight: 600 !important;
     padding: 5px 10px 4px;
     color: rgb(70, 94, 106);
 }
-
+.color-gray{    text-transform: uppercase;
+    font-size: 3rem;
+    letter-spacing: 0px;
+    line-height: 2em;
+    text-shadow: 0 .5rem 1rem !important;
+    margin: 0;
+    color: rgb(70, 94, 106) !important;
+}
+.countarup_area {
+    display: block;
+    overflow: hidden;
+    background: url(../images/countrap-bg-1.png) no-repeat left, url(../images/countrap-bg-2.png) no-repeat top right content-box;
+    padding-top: 50px;
+}
 /*****scroll**/
 .scroll-top {
     background: #177bb7;
@@ -902,7 +921,228 @@ div.team-text.green-gradient>p {
     border-radius: 50%;
     font-size: 2rem;
 }
+.our_works_area .work_img .work_home_img:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: block;
+    background-image: -moz-linear-gradient(-5deg, #8432ff 0%, white 100%);
+    background-image: -webkit-linear-gradient(-5deg, #261b82 0%, white 100%);
+    background-image: -ms-linear-gradient(-5deg, #8432ff 0%, white 100%);
+    opacity: 0.5;}
 
+    .our_works_area .work_slide .carousel-indicators li:hover, .our_works_area .work_slide .carousel-indicators li:focus, .our_works_area .work_slide .carousel-indicators li.active {
+        /* background: #8f49f9; */
+        width: 95px;
+        background-image: -webkit-linear-gradient(135deg,#0704e4,#0037ff ,#eb9cc0 50%, var(--gray) 100%);
+        border-radius: 5rem;
+    }    /**************project********/
+/**slider**/
+.work-title {
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 10%;
+    top: 50%;
+    position: absolute;
+    width: 80%;
+}
+.work-title p {
+    margin: 30px 0 40px 0;
+}
+a.button-work {
+    padding: 15px 30px;
+    color: #fff;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 40px;
+    box-shadow: 8.485px 8.485px 21px 0px rgba(0, 0, 0, 0.12);
+    transition: all 400ms ease;
+}
+#carouselExampleIndicators > div > div > div > div:nth-child(1) > div > div.col-12.col-lg-5{
+    background-color: white;
+    margin-left: 0px !important;
+    padding-left: 0;
+}
+
+#carouselExampleIndicators > div > div > div > div:nth-child(1) > div > div.col-12.col-lg-7{
+    padding-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********footer************/
+footer {
+  background-color: #333333;
+  padding-top: 90px;
+  padding-bottom: 100px;
+}
+
+.title-footer {
+  font-size: 14px;
+  font-family: "Lato", sans-serif;
+  color: rgba(204, 204, 204, 0.8);
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.title1-footer {
+  font-size: 15px;
+  font-family: "Raleway", sans-serif;
+  color: rgb(204, 204, 204);
+  font-weight: bold;
+  line-height: 1.467;
+  text-align: left;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.date {
+  font-size: 13px;
+  font-family: "CreteRound";
+  color: rgb(136, 136, 136);
+  font-style: italic;
+  line-height: 1.077;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.divider-footer {
+  border: 1px dotted #484848;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.number-footer {
+  font-size: 28px;
+  font-family: "Raleway";
+  color: rgb(204, 204, 204);
+  font-weight: bold;
+  line-height: 0.75;
+  text-align: left;
+  margin-bottom: 9px;
+}
+
+.mb-45 {
+  margin-bottom: 45px;
+}
+
+.height30 {
+  height: 30px;
+}
+
+.mt-45 {
+  margin-top: 45px;
+}
+
+.pt-45 {
+  padding-top: 38px;
+}
+
+.pb-40 {
+  padding-bottom: 43px;
+}
+
+.mr-8 {
+  margin-right: 18px;
+}
+
+.title-copyright {
+  font-size: 14px;
+  font-family: "Lato";
+  color: #666666;
+  line-height: 1.714;
+
+}
+
+.opacity {
+  opacity: 0.5;
+}
+
+.copyright {
+  background-color: #262626;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.mr-6 {
+  margin-right: 6px;
+}
+
+.ml-6 {
+  margin-left: 6px;
+}
+
+.mt-18 {
+  margin-top: 18px;
+}
+
+.bg-mail {
+  height: 34px;
+  background-color: #292929;
+  border: 1px solid #292929;
+}
+
+.padding-left-0 {
+  padding-left: 0px;
+}
+
+.bg-green {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #5cb85c;
+  height: 34px;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
 
 
 /*************************************
