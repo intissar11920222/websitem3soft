@@ -42,7 +42,7 @@ div.container1 a {
 .navbar-fixed-top.scrolled {
     background-color: #0c2949 !important;
     transition: background-color 200ms linear;
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
+    box-shadow:none !important;
 }
 
 .bg-navbar {
@@ -799,6 +799,7 @@ figure {
 
 .team-text h3 {
     color: #F3F4F8;
+    text-transform:capitalize;
 
 }
 
@@ -817,6 +818,7 @@ figure {
 
 .team-item figure img {
     margin-left: 30px;
+    padding-top: 3rem !important;
     -webkit-transform: scale(1.3);
     transform: scale(1.3);
     -webkit-transition: .3s ease-in-out;
@@ -1147,7 +1149,7 @@ footer {
 .copyright {
     width: 100%;
     min-width: 100%;
-    border-top: 1px solid white;
+    
     background-color: rgb(187, 187, 187);
     bottom: 0;
     top: auto;
