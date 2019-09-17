@@ -82,7 +82,7 @@ Table of Content:
 /*----------------------------------------------------*/
 /*Prefix Styles*/
 body {
-  font-family: "Niramit", sans-serif;
+  font-family: "Barlow Semi Condensed",sans-serif
   /*Section Fix*/
   /*Ancore*/
 }
@@ -92,7 +92,7 @@ body h1, body h2, body h3, body h4, body h5, body h6 {
 body p {
   color: rgba(40, 35, 49, 0.702);
   margin: 0;
-  font: 400 16px/28px "Niramit", sans-serif;
+  font: 400 16px/28px "Barlow Semi Condensed",sans-serif
 }
 body ul {
   margin: 0;
@@ -141,7 +141,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border: 0;
   box-shadow: none;
   outline: none;
-  font: 400 16px/40px "Niramit", sans-serif;
+  font: 400 16px/40px "Barlow Semi Condensed",sans-serif
   padding: 0 30px;
   height: auto;
   border-radius: 0;
@@ -408,7 +408,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin: 0 23px;
   padding: 0;
   color: #282331;
-  font: 400 22px/50px "Niramit", sans-serif;
+  font: 400 22px/50px "Barlow Semi Condensed",sans-serif;
   position: relative;
   display: block;
   z-index: 1;
@@ -464,7 +464,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu a {
   background-color: transparent;
-  font: 400 18px/40px "Niramit", sans-serif;
+  font: 400 18px/40px "Barlow Semi Condensed",sans-serif;
   color: rgba(40, 35, 49, 0.702);
   margin: 0;
   display: block;
@@ -554,7 +554,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding: 0;
   margin: 0 14px;
   color: #282331;
-  font: 400 22px/50px "Niramit", sans-serif;
+  font: 400 22px/50px "Barlow Semi Condensed",sans-serif;
   position: relative;
   display: block;
 }
@@ -700,7 +700,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border: none;
   background: transparent;
   text-align: center;
-  font: 400 18px/70px "Niramit", sans-serif;
+  font: 400 18px/70px "Barlow Semi Condensed",sans-serif;
 }
 .main_header_area .searchForm.show {
   height: 70px;
@@ -717,12 +717,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding: 350px 0 0;
 }
 .banner_area h2 {
-  font: 600 62px/75px "Niramit", sans-serif;
+  font: 600 62px/75px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   max-width: 800px;
 }
 .banner_area p {
-  font: 400 21px/36px "Niramit", sans-serif;
+  font: 400 21px/36px "Barlow Semi Condensed",sans-serif;
   max-width: 650px;
   padding-top: 85px;
   padding-bottom: 115px;
@@ -804,12 +804,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   z-index: -1;
 }
 .pages_banner h2 {
-  font: 600 62px/75px "Niramit", sans-serif;
+  font: 600 62px/75px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   max-width: 640px;
 }
 .pages_banner p {
-  font: 400 21px/36px "Niramit", sans-serif;
+  font: 400 21px/36px "Barlow Semi Condensed",sans-serif;
   max-width: 650px;
   padding-top: 25px;
 }
@@ -864,7 +864,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #382c4d;
 }
 .coming_soon .countdown .ds-element .ds-element-value {
-  font: 700 50px/1 "Niramit", sans-serif;
+  font: 700 50px/1 "Barlow Semi Condensed",sans-serif;
   color: #8f49f9;
   padding-top: 27px;
 }
@@ -876,7 +876,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   box-shadow: 0px 22px 32px 0px rgba(201, 201, 201, 0.35);
   border: 0;
   border-radius: 0;
-  font: 400 18px/80px "Niramit", sans-serif;
+  font: 400 18px/80px "Barlow Semi Condensed",sans-serif;
   color: rgba(40, 35, 49, 0.502);
   height: auto;
   outline: none;
@@ -914,7 +914,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   cursor: pointer;
   text-align: center;
   display: inline-block;
-  font: 700 18px/80px "Niramit", sans-serif;
+  font: 700 18px/80px "Barlow Semi Condensed",sans-serif;
   color: #fff;
   background: #8f49f9;
   min-width: 175px;
@@ -968,12 +968,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 200px;
 }
 .fantasy_area .fantasy_inner .fantasy_tittle h4 {
-  font: 600 18px/1 "Niramit", sans-serif;
+  font: 600 18px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 53px;
 }
 .fantasy_area .fantasy_inner .fantasy_tittle h2 {
-  font: 400 52px/62px "Niramit", sans-serif;
+  font: 400 52px/62px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 70px;
 }
@@ -1026,7 +1026,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .fantasy_area .fantasy_inner .fantasy a {
   display: block;
-  font: 700 25px/1 "Niramit", sans-serif;
+  font: 700 25px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-top: 55px;
 }
@@ -1146,12 +1146,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background: #fff;
 }
 .countarup_area .countraup_item h4 {
-  font: 700 21px/1 "Niramit", sans-serif;
+  font: 700 21px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   display: block;
 }
 .countarup_area .countraup_item h3 {
-  font: 700 30px/1 "Niramit", sans-serif;
+  font: 700 30px/1 "Barlow Semi Condensed",sans-serif;
   color: #8f49f9;
   display: block;
   padding-top: 30px;
@@ -1170,7 +1170,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .countarup_area h5 {
   text-align: center;
-  font: 700 18px/35px "Niramit", sans-serif;
+  font: 700 18px/35px "Barlow Semi Condensed",sans-serif;
   color: #3c3c3c;
   padding-top: 20px;
 }
@@ -1259,18 +1259,18 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   animation: moveRound 20s linear 2s infinite alternate;
 }
 .about_agency_area .agency_contant h4 {
-  font: 500 21px/31px "Niramit", sans-serif;
+  font: 500 21px/31px "Barlow Semi Condensed",sans-serif;
   color: #382c4d;
   padding-top: 35px;
 }
 .about_agency_area .agency_contant h2 {
-  font: 700 42px/55px "Niramit", sans-serif;
+  font: 700 42px/55px "Barlow Semi Condensed",sans-serif;
   color: #382c4d;
   max-width: 500px;
   padding-top: 40px;
 }
 .about_agency_area .agency_contant p {
-  font: 400 18px/31px "Niramit", sans-serif;
+  font: 400 18px/31px "Barlow Semi Condensed",sans-serif;
   color: rgba(56, 44, 77, 0.902);
   max-width: 570px;
   padding: 30px 0 70px;
@@ -1323,14 +1323,14 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .team_area .team_items .heding {
   display: block;
-  font: 700 24px/1 "Niramit", sans-serif;
+  font: 700 24px/1 "Barlow Semi Condensed",sans-serif;
   color: #382c4d;
   padding-top: 45px;
   padding-left: 45px;
 }
 .team_area .team_items .heding h6 {
   display: block;
-  font: 400 16px/1 "Niramit", sans-serif;
+  font: 400 16px/1 "Barlow Semi Condensed",sans-serif;
   color: #8f49f9;
   padding-top: 13px;
 }
@@ -1355,13 +1355,13 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   /* Jupitar Nave */
 }
 .testimonial_area h4 {
-  font: 700 18px/1 "Niramit", sans-serif;
+  font: 700 18px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 53px;
   text-transform: uppercase;
 }
 .testimonial_area h2 {
-  font: 400 52px/62px "Niramit", sans-serif;
+  font: 400 52px/62px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 70px;
 }
@@ -1386,7 +1386,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   z-index: -1;
 }
 .testimonial_area .testimonial_slide .testimonial_content p {
-  font: 400 20px/31px "Niramit", sans-serif;
+  font: 400 20px/31px "Barlow Semi Condensed",sans-serif;
   color: rgba(40, 35, 49, 0.8);
   max-width: 800px;
   padding-top: 30px;
@@ -1407,7 +1407,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .testimonial_area .testimonial_slide .testimonial_content .media .media-body a {
   display: block;
-  font: 700 21px/1 "Niramit", sans-serif;
+  font: 700 21px/1 "Barlow Semi Condensed",sans-serif;
   color: #382c4d;
   padding-top: 10px;
 }
@@ -1415,7 +1415,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #8f49f9;
 }
 .testimonial_area .testimonial_slide .testimonial_content .media .media-body h6 {
-  font: 400 16px/1 "Niramit", sans-serif;
+  font: 400 16px/1 "Barlow Semi Condensed",sans-serif;
   color: #8f49f9;
   padding-top: 20px;
 }
@@ -1672,7 +1672,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: block;
 }
 .protfolio_area .tittle h2 {
-  font: 400 52px/62px "Niramit", sans-serif;
+  font: 400 52px/62px "Barlow Semi Condensed",sans-serif;
   color: #382c4d;
   max-width: 470px;
   float: left;
@@ -1687,7 +1687,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-top: -50px;
 }
 .protfolio_area .tittle .complete_task h1 {
-  font: 700 82px/1 "Niramit", sans-serif;
+  font: 700 82px/1 "Barlow Semi Condensed",sans-serif;
   color: #8f49f9;
   display: block;
 }
@@ -1703,7 +1703,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   left: 5px;
 }
 .protfolio_area .tittle .complete_task a {
-  font: 400 20px/30px "Niramit", sans-serif;
+  font: 400 20px/30px "Barlow Semi Condensed",sans-serif;
   color: #39436f;
   border-bottom: 1px solid #b188fb;
   display: inline-block;
@@ -1720,7 +1720,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: inline-block;
 }
 .protfolio_area .protfoli_filter li a {
-  font: 400 21px/45px "Niramit", sans-serif;
+  font: 400 21px/45px "Barlow Semi Condensed",sans-serif;
   color: #382c4d;
   text-align: center;
   padding: 0 20px;
@@ -1760,12 +1760,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 200px;
 }
 .portfolio_grid .portfolio_tittle h4 {
-  font: 700 18px/1 "Niramit", sans-serif;
+  font: 700 18px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 53px;
 }
 .portfolio_grid .portfolio_tittle h2 {
-  font: 400 52px/62px "Niramit", sans-serif;
+  font: 400 52px/62px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 70px;
 }
@@ -1785,7 +1785,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border-left: 1px solid #f2e3ff;
 }
 .portfolio_grid .protfoli_filter li a {
-  font: 700 18px/50px "Niramit", sans-serif;
+  font: 700 18px/50px "Barlow Semi Condensed",sans-serif;
   color: #8f49f9;
   display: inline-block;
   min-width: 128px;
@@ -1930,7 +1930,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   transition: all 0.5s ease 0s;
 }
 .portfolio_grid .pi_3 .portfolio_item .portfolio_hover a {
-  font: 700 21px/1 "Niramit", sans-serif;
+  font: 700 21px/1 "Barlow Semi Condensed",sans-serif;
   color: #fff;
   text-align: center;
   position: relative;
@@ -2011,12 +2011,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding: 200px 0 60px;
 }
 .portfolio_single h4 {
-  font: 700 18px/1 "Niramit", sans-serif;
+  font: 700 18px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 53px;
 }
 .portfolio_single h2 {
-  font: 400 52px/62px "Niramit", sans-serif;
+  font: 400 52px/62px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 80px;
   max-width: 560px;
@@ -2029,7 +2029,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 55px;
 }
 .portfolio_single .right_sidebar h6 {
-  font: 700 18px/1 "Niramit", sans-serif;
+  font: 700 18px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 30px;
 }
@@ -2041,7 +2041,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 100px;
 }
 .portfolio_single .navication a {
-  font: 400 21px/1 "Niramit", sans-serif;
+  font: 400 21px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   text-shadow: 0px 8px 4px rgba(71, 70, 72, 0.35);
   position: relative;
@@ -2073,7 +2073,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-top: 80px;
 }
 .portfolio_single .company_info li {
-  font: 400 18px/30px "Niramit", sans-serif;
+  font: 400 18px/30px "Barlow Semi Condensed",sans-serif;
   color: rgba(40, 35, 49, 0.702);
   border-bottom: 1px solid #fff;
   padding: 17px 0;
@@ -2149,7 +2149,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-bottom: 30px;
 }
 .ps_2 .img_slide .about_project h6 {
-  font: 700 18px/1 "Niramit", sans-serif;
+  font: 700 18px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 30px;
 }
@@ -2238,7 +2238,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding: 65px 85px 100px;
 }
 .blog_posts_area h2 {
-  font: 400 52px/65px "Niramit", sans-serif;
+  font: 400 52px/65px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   text-align: center;
   padding-bottom: 100px;
@@ -2295,7 +2295,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   min-width: 87px;
   border-radius: 10px;
   text-align: center;
-  font: 700 20px/30px "Niramit", sans-serif;
+  font: 700 20px/30px "Barlow Semi Condensed",sans-serif;
   color: #8f49f9;
   padding: 13px 0;
   background: #fff;
@@ -2311,7 +2311,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-right: 60px;
 }
 .blog_posts_area .blog_item .blog_contant a {
-  font: 700 21px/31px "Niramit", sans-serif;
+  font: 700 21px/31px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   display: block;
   padding-bottom: 30px;
@@ -2343,7 +2343,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-right: 17px;
 }
 .blog_area .blog_list .blog_info li a {
-  font: 400 15px/30px "Niramit", sans-serif;
+  font: 400 15px/30px "Barlow Semi Condensed",sans-serif;
   text-transform: uppercase;
   color: #4d4d4d;
 }
@@ -2355,7 +2355,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #decbfc;
 }
 .blog_area .blog_list h6 {
-  font: 400 15px/1 "Niramit", sans-serif;
+  font: 400 15px/1 "Barlow Semi Condensed",sans-serif;
   color: rgba(0, 0, 0, 0.702);
   display: block;
   padding-top: 40px;
@@ -2375,13 +2375,13 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #8f49f9;
 }
 .blog_area .blog_list p {
-  font: 400 18px/35px "Niramit", sans-serif;
+  font: 400 18px/35px "Barlow Semi Condensed",sans-serif;
   color: rgba(0, 0, 0, 0.702);
   max-width: 810px;
 }
 .blog_area .blog_list .theme_btn {
   display: inline-block;
-  font: 400 16px/53px "Niramit", sans-serif;
+  font: 400 16px/53px "Barlow Semi Condensed",sans-serif;
   text-transform: uppercase;
   margin-top: 37px;
   min-width: 172px;
@@ -2403,7 +2403,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .blog_rightsidebar .input-group input {
   box-shadow: none;
   border: 0;
-  font: 400 18px/55px "Niramit", sans-serif;
+  font: 400 18px/55px "Barlow Semi Condensed",sans-serif;
   color: #9e9e9e;
   border-radius: 20px;
   padding: 0 30px;
@@ -2429,7 +2429,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 55px;
 }
 .blog_rightsidebar .categories h3 {
-  font: 700 22px/1 "Niramit", sans-serif;
+  font: 700 22px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   position: relative;
   padding-bottom: 20px;
@@ -2450,7 +2450,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: block;
 }
 .blog_rightsidebar .categories .categories_list li a {
-  font: 400 15px/48px "Niramit", sans-serif;
+  font: 400 15px/48px "Barlow Semi Condensed",sans-serif;
   color: #656565;
   text-transform: uppercase;
   position: relative;
@@ -2493,7 +2493,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #8f49f9;
 }
 .blog_rightsidebar .post_widget ul li span {
-  font: 400 15px/1 "Niramit", sans-serif;
+  font: 400 15px/1 "Barlow Semi Condensed",sans-serif;
   color: rgba(60, 64, 80, 0.702);
   padding-top: 10px;
   display: block;
@@ -2515,7 +2515,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 10px;
 }
 .blog_rightsidebar .tags .tags_list li a {
-  font: 400 16px/45px "Niramit", sans-serif;
+  font: 400 16px/45px "Barlow Semi Condensed",sans-serif;
   padding: 0 20px;
   color: #656565;
   background: #f8f4ff;
@@ -2554,7 +2554,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: inline-block;
 }
 .pagination li a {
-  font: 400 20px/46px "Niramit", sans-serif;
+  font: 400 20px/46px "Barlow Semi Condensed",sans-serif;
   color: #537097;
   width: 46px;
   border-radius: 50%;
@@ -2579,7 +2579,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-right: 30px;
 }
 .blog_single .blog_info .date span {
-  font: 700 40px/1 "Niramit", sans-serif;
+  font: 700 40px/1 "Barlow Semi Condensed",sans-serif;
   color: #8f49f9;
   width: 142px;
   display: block;
@@ -2614,7 +2614,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #decbfc;
 }
 .blog_single h2 {
-  font: 700 38px/48px "Niramit", sans-serif;
+  font: 700 38px/48px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   display: block;
   padding-top: 50px;
@@ -2626,7 +2626,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_single .quote {
   color: rgba(40, 35, 49, 0.8);
-  font: 400 21px/38px "Niramit", sans-serif;
+  font: 400 21px/38px "Barlow Semi Condensed",sans-serif;
   position: relative;
   background: #f8f4ff;
   z-index: 1;
@@ -2663,7 +2663,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .blog_single .share_row .share li {
   display: inline-block;
   padding-right: 7px;
-  font: 500 16px "Niramit", sans-serif;
+  font: 500 16px "Barlow Semi Condensed",sans-serif;
   color: rgba(0, 0, 0, 0.702);
 }
 .blog_single .share_row .share li:first-child {
@@ -2690,7 +2690,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 20px;
 }
 .blog_single .share_row .like li a {
-  font: 400 16px "Niramit", sans-serif;
+  font: 400 16px "Barlow Semi Condensed",sans-serif;
   color: rgba(0, 0, 0, 0.702);
 }
 .blog_single .share_row .like li a i {
@@ -2716,7 +2716,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 40px;
 }
 .blog_single .author .media-body a {
-  font: 600 22px/1 "Niramit", sans-serif;
+  font: 600 22px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   display: block;
 }
@@ -2739,7 +2739,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   line-height: 45px;
   font-weight: 400;
   padding: 0 25px;
-  font-family: "Niramit", sans-serif;
+  font-family: "Barlow Semi Condensed",sans-serif;
 }
 .blog_single .np_btn .theme_btn:hover, .blog_single .np_btn .theme_btn:focus {
   color: #fff;
@@ -2760,7 +2760,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: block;
 }
 .blog_single .comments_area h3 {
-  font: 700 25px/1 "Niramit", sans-serif;
+  font: 700 25px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 55px;
 }
@@ -2777,7 +2777,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 40px;
 }
 .blog_single .comments_area .author .media-body a {
-  font: 600 22px/1 "Niramit", sans-serif;
+  font: 600 22px/1 "Barlow Semi Condensed",sans-serif;
   color: #000000;
   display: block;
 }
@@ -2802,7 +2802,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   outline: none;
   border-radius: 0;
   color: rgba(0, 0, 0, 0.4);
-  font: 400 16px/50px "Niramit", sans-serif;
+  font: 400 16px/50px "Barlow Semi Condensed",sans-serif;
   padding: 0;
   background-color: transparent;
   height: auto;
@@ -2888,11 +2888,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 80px;
 }
 .our_works_area .work_contant h4 {
-  font: 400 21px/1 "Niramit", sans-serif;
+  font: 400 21px/1 "Barlow Semi Condensed",sans-serif;
   color: #382c4d;
 }
 .our_works_area .work_contant h2 {
-  font: 700 42px/55.56px "Niramit", sans-serif;
+  font: 700 42px/55.56px "Barlow Semi Condensed",sans-serif;
   color: #382c4d;
   padding: 40px 0 30px;
 }
@@ -2937,7 +2937,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   }
 }
 .pricing_plan_area h2 {
-  font: 400 52px/62px "Niramit", sans-serif;
+  font: 400 52px/62px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   max-width: 760px;
 }
@@ -2950,7 +2950,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-top: -70px;
 }
 .pricing_plan_area .tab_list li a {
-  font: 700 18px/50px "Niramit", sans-serif;
+  font: 700 18px/50px "Barlow Semi Condensed",sans-serif;
   min-width: 122px;
   text-align: center;
   border: 1px solid #f2e3ff;
@@ -2973,7 +2973,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   position: relative;
 }
 .pricing_plan_area .fantasy .amount {
-  font: 400 28px/60px "Niramit", sans-serif;
+  font: 400 28px/60px "Barlow Semi Condensed",sans-serif;
   color: #fff;
   background: #8f49f9;
   text-align: center;
@@ -3000,7 +3000,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .pricing_plan_area .fantasy .heding {
   display: block;
-  font: 700 25px/1 "Niramit", sans-serif;
+  font: 700 25px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-top: 60px;
 }
@@ -3016,7 +3016,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 8px;
 }
 .pricing_plan_area .fantasy ul li {
-  font: 400 18px/35px "Niramit", sans-serif;
+  font: 400 18px/35px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-left: 35px;
   position: relative;
@@ -3069,14 +3069,14 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 140px;
 }
 .included_plans h2 {
-  font: 400 32px/1 "Niramit", sans-serif;
+  font: 400 32px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   text-align: center;
   padding-bottom: 90px;
 }
 .included_plans .included_list li {
   padding-left: 50px;
-  font: 400 21px/31px "Niramit", sans-serif;
+  font: 400 21px/31px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   position: relative;
   padding-bottom: 60px;
@@ -3104,11 +3104,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 200px;
 }
 .services_single h4 {
-  font: 700 25px/31px "Niramit", sans-serif;
+  font: 700 25px/31px "Barlow Semi Condensed",sans-serif;
   color: #282331;
 }
 .services_single h2 {
-  font: 400 52px/62px "Niramit", sans-serif;
+  font: 400 52px/62px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-top: 50px;
   max-width: 850px;
@@ -3160,7 +3160,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 25px;
 }
 .services_single .strategy_inner .media .media-body h3 {
-  font: 700 25px/1 "Niramit", sans-serif;
+  font: 700 25px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
 }
 .services_single .strategy_inner .media .media-body p {
@@ -3194,13 +3194,13 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   text-align: center;
 }
 .services_single .think_agency .think_img .think_content h4 {
-  font: 700 28px/35px "Niramit", sans-serif;
+  font: 700 28px/35px "Barlow Semi Condensed",sans-serif;
   color: #fff;
   padding-bottom: 25px;
 }
 .services_single .think_agency .think_img .think_content a {
   display: block;
-  font: 400 21px/35px "Niramit", sans-serif;
+  font: 400 21px/35px "Barlow Semi Condensed",sans-serif;
   color: #fff;
 }
 .services_single .think_agency .think_img .think_content a:hover, .services_single .think_agency .think_img .think_content a:focus {
@@ -3238,7 +3238,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   z-index: -1;
 }
 .get_touch_area h2 {
-  font: 700 35px/1 "Niramit", sans-serif;
+  font: 700 35px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   text-align: center;
   padding-bottom: 80px;
@@ -3265,7 +3265,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   outline: none;
   border: 1px solid #e6f1ff;
   background: #fff;
-  font: 400 16px/58px "Niramit", sans-serif;
+  font: 400 16px/58px "Barlow Semi Condensed",sans-serif;
   color: rgba(40, 35, 49, 0.702);
   border-radius: 0;
   height: auto;
@@ -3337,7 +3337,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .general_communication .quick_find li {
   padding-left: 100px;
   padding-right: 70px;
-  font: 700 18px/34px "Niramit", sans-serif;
+  font: 700 18px/34px "Barlow Semi Condensed",sans-serif;
   color: #272626;
   padding-top: 36px;
 }
@@ -3368,7 +3368,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-bottom: 80px;
 }
 .general_communication .help_support .support h4 {
-  font: 700 21px/1 "Niramit", sans-serif;
+  font: 700 21px/1 "Barlow Semi Condensed",sans-serif;
   color: #272626;
 }
 .general_communication .help_support .support p {
@@ -3432,7 +3432,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 100px;
 }
 .leave_reply h2 {
-  font: 600 25px/1 "Niramit", sans-serif;
+  font: 600 25px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-top: 40px;
   padding-bottom: 55px;
@@ -3446,7 +3446,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border-radius: 30px;
   border: 0;
   background: #f9f5ff;
-  font: 400 16px/60px "Niramit", sans-serif;
+  font: 400 16px/60px "Barlow Semi Condensed",sans-serif;
   color: rgba(83, 112, 151, 0.6);
   height: auto;
   padding: 0 30px;
@@ -3520,11 +3520,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   right: 140px;
 }
 .summer_collerction .shop_caption h3 {
-  font: 700 46px/1 "Niramit", sans-serif;
+  font: 700 46px/1 "Barlow Semi Condensed",sans-serif;
   color: rgba(40, 35, 49, 0.6);
 }
 .summer_collerction .shop_caption h2 {
-  font: 700 62px/1 "Niramit", sans-serif;
+  font: 700 62px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding: 40px 0 70px;
 }
@@ -3575,7 +3575,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   position: relative;
 }
 .shop_with_sidebar .shop_left_sidebar .input-group input {
-  font: 400 16px/58px "Niramit", sans-serif;
+  font: 400 16px/58px "Barlow Semi Condensed",sans-serif;
   color: rgba(12, 20, 35, 0.431);
   border: 1px solid #e5e5e5;
   border-radius: 0;
@@ -3633,14 +3633,14 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 80px;
 }
 .shop_with_sidebar .shop_left_sidebar .s_widget h4 {
-  font: 700 21px/1 "Niramit", sans-serif;
+  font: 700 21px/1 "Barlow Semi Condensed",sans-serif;
   color: #282331;
 }
 .shop_with_sidebar .shop_left_sidebar .s_widget .categories {
   padding-top: 20px;
 }
 .shop_with_sidebar .shop_left_sidebar .s_widget .categories li a {
-  font: 700 15px/55px "Niramit", sans-serif;
+  font: 700 15px/55px "Barlow Semi Condensed",sans-serif;
   color: #39436f;
 }
 .shop_with_sidebar .shop_left_sidebar .s_widget .categories li a:hover, .shop_with_sidebar .shop_left_sidebar .s_widget .categories li a:focus {
@@ -3674,7 +3674,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   cursor: pointer;
 }
 .shop_with_sidebar .shop_left_sidebar .range_w .range_input label {
-  font: 700 15.2px/46px "Niramit", sans-serif;
+  font: 700 15.2px/46px "Barlow Semi Condensed",sans-serif;
   display: inline-block;
   background: #fc8b6f;
   color: #fff;
@@ -3691,7 +3691,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border: 0;
   margin: 0;
   color: rgba(0, 0, 0, 0.651);
-  font: 700 15.2px/46px "Niramit", sans-serif;
+  font: 700 15.2px/46px "Barlow Semi Condensed",sans-serif;
   width: 40%;
   float: right;
   text-align: right;
@@ -3709,7 +3709,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-left: 30px;
 }
 .shop_with_sidebar .shop_left_sidebar .popular_products .media .media-body a {
-  font: 700 18px/1 "Niramit", sans-serif;
+  font: 700 18px/1 "Barlow Semi Condensed",sans-serif;
   color: #39436f;
   display: block;
   margin-top: -2px;
@@ -3726,7 +3726,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: inline-block;
 }
 .shop_with_sidebar .shop_left_sidebar .popular_products .media .media-body h4 {
-  font: 400 18px/1 "Niramit", sans-serif;
+  font: 400 18px/1 "Barlow Semi Condensed",sans-serif;
   color: rgba(0, 0, 0, 0.4);
   padding: 0;
   padding-top: 5px;
@@ -3747,14 +3747,14 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   transition: all 500ms linear 0s;
 }
 .shop_with_sidebar .shop_items .heding {
-  font: 700 21px/1 "Niramit", sans-serif;
+  font: 700 21px/1 "Barlow Semi Condensed",sans-serif;
   color: #39436f;
   display: inline-block;
   padding-top: 45px;
 }
 .shop_with_sidebar .shop_items .heding span {
   display: block;
-  font: 400 24px/1 "Niramit", sans-serif;
+  font: 400 24px/1 "Barlow Semi Condensed",sans-serif;
   color: rgba(0, 0, 0, 0.4);
   padding-top: 15px;
 }
@@ -3809,7 +3809,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .shop_with_sidebar .shop_single h2 {
   display: block;
-  font: 700 32px/45px "Niramit", sans-serif;
+  font: 700 32px/45px "Barlow Semi Condensed",sans-serif;
   color: #39436f;
   padding-bottom: 10px;
 }
@@ -3822,7 +3822,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   float: left;
 }
 .shop_with_sidebar .shop_single .interface .price h3 {
-  font: 700 32px/45px "Niramit", sans-serif;
+  font: 700 32px/45px "Barlow Semi Condensed",sans-serif;
   color: #fc8b6f;
 }
 .shop_with_sidebar .shop_single .interface .price .reting li {
@@ -3832,7 +3832,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-right: 10px;
 }
 .shop_with_sidebar .shop_single .interface .price .reting li span {
-  font: 400 15px/1 "Niramit", sans-serif;
+  font: 400 15px/1 "Barlow Semi Condensed",sans-serif;
   color: #7c84a7;
   padding-left: 20px;
 }
@@ -3841,7 +3841,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: inline-block;
 }
 .shop_with_sidebar .shop_single .interface .tags li {
-  font: 400 16px/28px "Niramit", sans-serif;
+  font: 400 16px/28px "Barlow Semi Condensed",sans-serif;
   color: #fc8b6f;
 }
 .shop_with_sidebar .shop_single .interface .tags li a {
@@ -3870,7 +3870,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .shop_with_sidebar .shop_single .value-section li button {
   display: block;
-  font: 400 18px/32px "Niramit", sans-serif;
+  font: 400 18px/32px "Barlow Semi Condensed",sans-serif;
   background: #eaddfd;
   color: #fff;
   width: 32px;
@@ -3887,7 +3887,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: inline-block;
   width: 105px;
   text-align: center;
-  font: 400 18px/80px "Niramit", sans-serif;
+  font: 400 18px/80px "Barlow Semi Condensed",sans-serif;
   color: #39436f;
 }
 .shop_with_sidebar .shop_single .value_buy {
@@ -3918,7 +3918,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-right: 0;
 }
 .shop_with_sidebar .shop_single .review-tab .nav-tabs li a {
-  font: 700 24px/30px "Niramit", sans-serif;
+  font: 700 24px/30px "Barlow Semi Condensed",sans-serif;
   color: #39436f;
   padding-bottom: 20px;
   display: inline-block;
@@ -3946,7 +3946,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: rgba(57, 67, 111, 0.8);
 }
 .shop_with_sidebar .related_tittle {
-  font: 700 24px/1 "Niramit", sans-serif;
+  font: 700 24px/1 "Barlow Semi Condensed",sans-serif;
   color: #39436f;
   display: block;
   text-align: center;
@@ -4017,7 +4017,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   z-index: 333;
 }
 .contact_us .contact_inner h2 {
-  font: 700 28px/42px "Niramit", sans-serif;
+  font: 700 28px/42px "Barlow Semi Condensed",sans-serif;
   color: #282331;
   padding-bottom: 30px;
   max-width: 500px;
@@ -4073,7 +4073,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .footer_area .footer_inner .footer_logo .language h6 {
   float: left;
-  font: 700 18px/40px "Niramit", sans-serif;
+  font: 700 18px/40px "Barlow Semi Condensed",sans-serif;
   color: #39436f;
   display: inline-block;
 }
@@ -4082,7 +4082,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .footer_area .footer_inner .footer_logo .language .language_select .post_select {
   padding: 0 10px;
-  font: 700 16px/40px "Niramit", sans-serif;
+  font: 700 16px/40px "Barlow Semi Condensed",sans-serif;
   color: #ff8d68;
 }
 .footer_area .footer_inner .footer_logo .language .language_select .post_select:before {
@@ -4097,7 +4097,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: inline-block;
 }
 .footer_area .footer_inner .footer_logo .footer_menu li a {
-  font: 400 16px/30px "Niramit", sans-serif;
+  font: 400 16px/30px "Barlow Semi Condensed",sans-serif;
   color: rgba(57, 67, 111, 0.702);
   padding-right: 10px;
 }
@@ -4135,19 +4135,19 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 15px;
 }
 .footer_area .footer_inner .footer_widget h4 {
-  font: 700 20px/1 "Niramit", sans-serif;
+  font: 700 20px/1 "Barlow Semi Condensed",sans-serif;
   color: #101010;
   padding-bottom: 45px;
 }
 .footer_area .footer_inner .footer_widget .footer_nav li a {
-  font: 400 16px/40px "Niramit", sans-serif;
+  font: 400 16px/40px "Barlow Semi Condensed",sans-serif;
   color: rgba(57, 67, 111, 0.702);
 }
 .footer_area .footer_inner .footer_widget .footer_nav li a:hover, .footer_area .footer_inner .footer_widget .footer_nav li a:focus {
   color: #ff8d68;
 }
 .footer_area .footer_inner .footer_widget address {
-  font: 400 16px/28px "Niramit", sans-serif;
+  font: 400 16px/28px "Barlow Semi Condensed",sans-serif;
   color: rgba(57, 67, 111, 0.702);
   padding-top: 7px;
 }
@@ -4178,7 +4178,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   max-width: 268px;
 }
 .footer_area .footer_inner .footer_widget .input-group input {
-  font: 400 16px/48px "Niramit", sans-serif;
+  font: 400 16px/48px "Barlow Semi Condensed",sans-serif;
   border-radius: 0;
   box-shadow: none;
   outline: none;

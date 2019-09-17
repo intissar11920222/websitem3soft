@@ -106,7 +106,7 @@
 .portfolio_grid{
     display: block;
     overflow: hidden;
-    padding: 200px 0 50px;
+    padding: 10px 0 50px;
     
     .portfolio_tittle{
         padding-left: 200px;
@@ -233,28 +233,7 @@
         .portfolio_item{ 
             position: relative; 
             overflow: hidden; 
-            &:before{
-                content: "";
-                width: 50%;
-                height: 50%;
-                background-color: rgba(27, 2, 66, 0.651);
-                position: absolute;
-                top: 0;
-                left: 0;
-                opacity: 0;
-                transition: all 0.5s ease 0s;
-            }
-            &:after{
-                content: "";
-                width: 50%;
-                height: 50%;
-                background-color: rgba(27, 2, 66, 0.651);
-                position: absolute;
-                top: 50%;
-                left: 0;
-                opacity: 0;
-                transition: all 0.5s ease 0s;
-            }
+           
             .portfolio_hover{ 
                 position: absolute;
                 left: 0;
@@ -281,7 +260,6 @@
                     content: "";
                     width: 50%;
                     height: 50%;
-                    background-color: rgba(27, 2, 66, 0.651);
                     position: absolute;
                     top: 50%; 
                     left: 50%; 
